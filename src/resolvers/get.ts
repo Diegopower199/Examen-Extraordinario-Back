@@ -1,4 +1,3 @@
-import { getQuery } from "oak/helpers.ts";
 import { RouterContext } from "oak/router.ts";
 import { ObjectId } from "mongo";
 import { EventosCollection } from "../db/dbconnection.ts";

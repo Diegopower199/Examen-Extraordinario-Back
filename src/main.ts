@@ -1,4 +1,4 @@
-import { Application, Context, Router } from "oak";
+import { Application, Router } from "oak";
 
 import { config } from "std/dotenv/mod.ts";
 import { getEventPorId, getEvents } from "./resolvers/get.ts";
